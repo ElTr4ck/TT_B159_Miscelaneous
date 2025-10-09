@@ -1,0 +1,16 @@
+# Ignorar archivos del entorno de desarrollo y dependencias
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+bin/
+lib/
+include/
+*.egg-info/
+.eggs/
+dist/
+build/
+lib64/

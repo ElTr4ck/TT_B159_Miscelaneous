@@ -1,0 +1,3872 @@
+[
+  {
+    "lectura": "Xochimilco y sus canales",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué significa la palabra Xochimilco en náhuatl?",
+        "opciones": [
+          "A) Tierra de flores",
+          "B) Chinampas de Flores",
+          "C) Lago de flores",
+          "D) Casa de flores"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué son las chinampas?",
+        "opciones": [
+          "A) Embarcaciones de madera",
+          "B) Terrenos de cultivo hechos a mano",
+          "C) Canales de navegación",
+          "D) Árboles que producen oxígeno"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la función de la trajinera?",
+        "opciones": [
+          "A) Cultivar frutas y verduras",
+          "B) Navegar y transportar personas y mercancías",
+          "C) Construir chinampas",
+          "D) Producir oxígeno"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué problema enfrenta actualmente la región de Xochimilco?",
+        "opciones": [
+          "A) Falta de turistas",
+          "B) Contaminación y sobreexplotación del agua",
+          "C) Escasez de chinampas",
+          "D) Crecimiento de árboles ahuejotes"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de árboles se siembran en las chinampas?",
+        "opciones": [
+          "A) Pinos",
+          "B) Ahuejotes",
+          "C) Sauce",
+          "D) Cedros"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué dejaron los antiguos pobladores en los lagos de la Ciudad de México?",
+        "opciones": [
+          "A) Edificios modernos",
+          "B) Chinampas",
+          "C) Contaminación",
+          "D) Turistas"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Vivo en una nación pluricultural y en paz",
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo se describe la nación en la lectura?",
+        "opciones": [
+          "A) Monocultural",
+          "B) Pluricultural",
+          "C) Beligerante",
+          "D) Desigual"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué estado se menciona además de la pluriculturalidad?",
+        "opciones": [
+          "A) Guerra",
+          "B) Desigualdad",
+          "C) Paz",
+          "D) Conflicto"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Leonardo da Vinci, el gran imaginador",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué época vivió Leonardo da Vinci?",
+        "opciones": [
+          "A) Barroco",
+          "B) Renacimiento",
+          "C) Clasicismo",
+          "D) Modernismo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre de la famosa pintura de Leonardo da Vinci que también se conoce como la Mona Lisa?",
+        "opciones": [
+          "A) La Gioconda",
+          "B) La Dama del Armiño",
+          "C) La Última Cena",
+          "D) El Hombre de Vitruvio"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué tipo de diseño realizó Leonardo da Vinci para una ciudad ideal?",
+        "opciones": [
+          "A) Con murallas",
+          "B) Sin murallas y con canales",
+          "C) Solo para personas",
+          "D) Solo para mercancías"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se describe la técnica utilizada por da Vinci en la pintura de la Mona Lisa?",
+        "opciones": [
+          "A) Impresionismo",
+          "B) Sfumato",
+          "C) Cubismo",
+          "D) Realismo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué contribución hizo Leonardo da Vinci al campo de la medicina?",
+        "opciones": [
+          "A) Inventó la anestesia",
+          "B) Realizó dibujos del cuerpo humano",
+          "C) Creó un nuevo tipo de cirugía",
+          "D) Descubrió la penicilina"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de inventos diseñó Leonardo da Vinci?",
+        "opciones": [
+          "A) Solo pinturas",
+          "B) Solo esculturas",
+          "C) Mecanismos inspirados en la naturaleza",
+          "D) Solo estructuras arquitectónicas"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Retos matemáticos",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuántos relojes hay en la pared?",
+        "opciones": [
+          "A) 2",
+          "B) 3",
+          "C) 4",
+          "D) 5"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo está atrasado uno de los relojes?",
+        "opciones": [
+          "A) 10 minutos",
+          "B) 20 minutos",
+          "C) 30 minutos",
+          "D) 40 minutos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántas horas dura el viaje a Orizaba?",
+        "opciones": [
+          "A) 1 hora",
+          "B) 2 horas",
+          "C) 3 horas",
+          "D) 4 horas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántos huevos ponen 10 patos en 10 días si ponen 1 huevo cada día?",
+        "opciones": [
+          "A) 10 huevos",
+          "B) 20 huevos",
+          "C) 30 huevos",
+          "D) 40 huevos"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuál es el número de la última llave mencionada?",
+        "opciones": [
+          "A) 812",
+          "B) 414",
+          "C) 184",
+          "D) 124"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué hora es cuando el autobús sale?",
+        "opciones": [
+          "A) Dentro de 5 minutos",
+          "B) Dentro de 10 minutos",
+          "C) Dentro de 15 minutos",
+          "D) Dentro de 20 minutos"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Alejandra",
+    "preguntas": [
+      {
+        "pregunta": "¿Dónde se encuentra Alejandra al principio de la historia?",
+        "opciones": [
+          "A) En su casa",
+          "B) En un cementerio",
+          "C) En una fiesta",
+          "D) En un parque"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué le pide Alejandra a la flor de cempasúchil?",
+        "opciones": [
+          "A) Que le dé agua",
+          "B) Que la guíe de vuelta con su familia",
+          "C) Que le cuente un secreto",
+          "D) Que le regale un vestido"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué dice Alejandra sobre el pan de muerto?",
+        "opciones": [
+          "A) Que no le gusta",
+          "B) Que sabe mejor cuando se comparte en un panteón",
+          "C) Que siempre es dulce",
+          "D) Que es solo para el Día de Muertos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué bloquea la salida de Alejandra del cementerio?",
+        "opciones": [
+          "A) Un árbol",
+          "B) Una lápida con su nombre",
+          "C) Sus amigas",
+          "D) La música"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué hace Alejandra con las flores en el cementerio?",
+        "opciones": [
+          "A) Las arranca",
+          "B) Dibuja retratos de aquellos que la recuerdan",
+          "C) Las vende",
+          "D) Las ignora"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién invita a Alejandra a bailar?",
+        "opciones": [
+          "A) Una niña",
+          "B) Una calavera vestida de reina",
+          "C) Su madre",
+          "D) Una amiga"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Microbios",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué hizo Juanjo al despertarse tarde?",
+        "opciones": [
+          "A) Se puso pantalones",
+          "B) Se conectó a su clase virtual",
+          "C) Comió chocolatito",
+          "D) Llamó a su mamá"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué olvidó Juanjo antes de conectarse a su clase virtual?",
+        "opciones": [
+          "A) Su mochila",
+          "B) Pantalones",
+          "C) Su computadora",
+          "D) La cámara"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué hizo la mamá de Juanjo al darse cuenta de la situación?",
+        "opciones": [
+          "A) Se rió",
+          "B) Desactivó la cámara",
+          "C) Llamó a sus amigos",
+          "D) Preparó más chocolatito"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué logró Andrea que su perico repitiera?",
+        "opciones": [
+          "A) Su nombre",
+          "B) Una palabra",
+          "C) Un sonido",
+          "D) Un saludo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué grita el perico cada vez que alguien estornuda o tose?",
+        "opciones": [
+          "A) ¡Hola!",
+          "B) ¡Chocolatito!",
+          "C) ¡Microbito!",
+          "D) ¡Ayuda!"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cómo se sintió la familia de Andrea cuando el perico dijo 'microbito'?",
+        "opciones": [
+          "A) Divertida",
+          "B) Indiferente",
+          "C) Con odio",
+          "D) Sorpresa"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "La mirada sorprendente de Tina",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año nació Tina Modotti?",
+        "opciones": [
+          "A) 1890",
+          "B) 1896",
+          "C) 1900",
+          "D) 1921"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál fue uno de los roles que desempeñó Tina Modotti además de fotógrafa?",
+        "opciones": [
+          "A) Abogada",
+          "B) Activista",
+          "C) Ingeniera",
+          "D) Científica"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué nombre recibe el periódico en el que trabajó Tina Modotti?",
+        "opciones": [
+          "A) El Sol",
+          "B) El Machete",
+          "C) La Prensa",
+          "D) El País"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de fotografía se considera que Tina Modotti precursó?",
+        "opciones": [
+          "A) Fotografía artística",
+          "B) Fotografía de paisajes",
+          "C) Fotografía de moda",
+          "D) Fotoperiodismo crítico"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿A qué edad comenzó Tina a trabajar en la industria de la confección de ropa?",
+        "opciones": [
+          "A) 10 años",
+          "B) 12 años",
+          "C) 14 años",
+          "D) 16 años"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué ciudad montó su primera exposición Tina Modotti?",
+        "opciones": [
+          "A) Nueva York",
+          "B) Ciudad de México",
+          "C) París",
+          "D) Roma"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Aguacate, de México para el mundo",
+    "preguntas": [
+      {
+        "pregunta": "¿De dónde es originario el aguacate?",
+        "opciones": [
+          "A) España",
+          "B) México",
+          "C) Brasil",
+          "D) Estados Unidos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la variedad de aguacate más consumida en el mundo?",
+        "opciones": [
+          "A) Bacon",
+          "B) Hass",
+          "C) Zutano",
+          "D) Criollo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué nombre recibe el aguacate en Brasil?",
+        "opciones": [
+          "A) Palta",
+          "B) Avacate",
+          "C) Ahuacatl",
+          "D) Avocado"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué simboliza el aguacate para los mexicas?",
+        "opciones": [
+          "A) Riqueza",
+          "B) Amor y fertilidad",
+          "C) Salud",
+          "D) Sabiduría"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes beneficios se atribuye al consumo de aguacate?",
+        "opciones": [
+          "A) Mejora la memoria",
+          "B) Ayuda al corazón",
+          "C) Aumenta la energía",
+          "D) Favorece la digestión"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de polinización requieren los árboles de aguacate?",
+        "opciones": [
+          "A) Autopolinización",
+          "B) Polinización cruzada",
+          "C) Polinización artificial",
+          "D) Polinización por insectos"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "¿Un ave corredora?",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es el hábitat típico del correcaminos?",
+        "opciones": [
+          "A) Bosques tropicales",
+          "B) Zonas áridas y desérticas",
+          "C) Montañas nevadas",
+          "D) Playas arenosas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué dos especies de correcaminos se mencionan en el texto?",
+        "opciones": [
+          "A) Norteño y chico",
+          "B) Grande y pequeño",
+          "C) Tropical y americano",
+          "D) Norteño y europeo"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué sonido emite el correcaminos?",
+        "opciones": [
+          "A) Un fuerte grito",
+          "B) Un arrullo lento y descendente",
+          "C) Un canto melodioso",
+          "D) Un aullido similar al del coyote"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la velocidad máxima que puede alcanzar un correcaminos al correr?",
+        "opciones": [
+          "A) 15 kilómetros por hora",
+          "B) 24 a 32 kilómetros por hora",
+          "C) 40 kilómetros por hora",
+          "D) 50 kilómetros por hora"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de alimentación tiene el correcaminos?",
+        "opciones": [
+          "A) Herbívoro",
+          "B) Carnívoro",
+          "C) Omnívoro",
+          "D) Insectívoro"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Por qué el coyote no puede atrapar al correcaminos según el texto?",
+        "opciones": [
+          "A) Porque el correcaminos es más inteligente",
+          "B) Porque el coyote es más rápido",
+          "C) Porque el correcaminos es muy veloz",
+          "D) Porque el correcaminos vuela muy alto"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Hacer milpa es hacer equipo",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuáles son los ingredientes básicos que se siembran en la milpa?",
+        "opciones": [
+          "A) Maíz, arroz, frijol y chile",
+          "B) Maíz, frijol, calabaza y chile",
+          "C) Maíz, papa, calabaza y chile",
+          "D) Maíz, frijol, calabaza y zanahoria"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿De qué lengua proviene la palabra 'milpa'?",
+        "opciones": [
+          "A) Español",
+          "B) Náhuatl",
+          "C) Maya",
+          "D) Mixteco"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes afirmaciones es cierta sobre la milpa?",
+        "opciones": [
+          "A) Solo se siembra maíz en la milpa",
+          "B) La milpa crea un sistema de interacciones ecológicas benéficas",
+          "C) La milpa no protege el suelo",
+          "D) La milpa solo se cultiva en una región específica"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué beneficios aporta la milpa al entorno donde se desarrolla?",
+        "opciones": [
+          "A) Aumenta la contaminación",
+          "B) Protege el suelo y lo mantiene hidratado",
+          "C) Disminuye la biodiversidad",
+          "D) No tiene beneficios para el entorno"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántas formas distintas existen para referirse a la milpa según el texto?",
+        "opciones": [
+          "A) 30",
+          "B) 40",
+          "C) 50",
+          "D) 60"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué plantas ayudan en el crecimiento de la milpa según el texto?",
+        "opciones": [
+          "A) Solo maíz y frijol",
+          "B) Quelites, hongos y plantas ornamentales",
+          "C) Solo calabaza y chile",
+          "D) Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Xiye y el cambio climático",
+    "preguntas": [
+      {
+        "pregunta": "¿De dónde es Xiye Bastida Patrick?",
+        "opciones": [
+          "A) Estados Unidos",
+          "B) México",
+          "C) Chile",
+          "D) España"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál fue una de las razones que motivó a Xiye a realizar activismo?",
+        "opciones": [
+          "A) Su trabajo en un documental",
+          "B) Las inundaciones en su pueblo",
+          "C) Su migración a Nueva York",
+          "D) Su admiración por Greta Thunberg"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué evento natural afectó a Nueva York y tuvo un impacto en Xiye?",
+        "opciones": [
+          "A) Terremoto",
+          "B) Huracán Sandy",
+          "C) Sequía",
+          "D) Tormenta de nieve"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué herencia cultural tiene Xiye por parte de su padre?",
+        "opciones": [
+          "A) Maya",
+          "B) Azteca",
+          "C) Inca",
+          "D) Mapuche"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué punto de vista considera Xiye importante para fortalecer la causa ambiental?",
+        "opciones": [
+          "A) La diversidad de orígenes de los activistas",
+          "B) El apoyo de celebridades",
+          "C) La unión de todas las naciones",
+          "D) La política internacional"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuál es la ocupación de Xiye Bastida Patrick?",
+        "opciones": [
+          "A) Escritora",
+          "B) Científica",
+          "C) Activista",
+          "D) Política"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Los ladrillos de los números",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué son los números primos?",
+        "opciones": [
+          "A) Números que pueden ser divididos por 2",
+          "B) Números que solo se pueden expresar como el producto de ellos mismos y 1",
+          "C) Números que siempre son pares",
+          "D) Números que tienen más de dos divisores"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Para qué se utilizan los números primos grandes en la actualidad?",
+        "opciones": [
+          "A) Para sumar fracciones",
+          "B) Para el cifrado electrónico en bancos y comercios",
+          "C) Para contar en matemáticas",
+          "D) Para crear diagramas de números naturales"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se representa el número 6 en el contexto de la lectura?",
+        "opciones": [
+          "A) Como 2 x 3",
+          "B) Como 3 x 2",
+          "C) Como 1 x 6",
+          "D) Ambas A y B son correctas"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué forma tiene el diagrama que representa el número 3?",
+        "opciones": [
+          "A) Circular",
+          "B) Triangular",
+          "C) Pentagonal",
+          "D) Cuadrada"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué ladrillos se utilizan para representar el número 15?",
+        "opciones": [
+          "A) 3 y 5",
+          "B) 2 y 7",
+          "C) 1 y 15",
+          "D) 5 y 3"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué relación se menciona acerca de los números cuya representación es circular?",
+        "opciones": [
+          "A) Son todos primos",
+          "B) Son todos compuestos",
+          "C) No se menciona una relación específica",
+          "D) Son siempre números pares"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Parque nacional Cañón del Sumidero",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál de las siguientes especies se menciona como en peligro de extinción en la selva del cañón?",
+        "opciones": [
+          "A) Zopilotes",
+          "B) Cocodrilos de río",
+          "C) Garzas",
+          "D) Peces"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de vegetación se encuentra en la parte inicial del cañón?",
+        "opciones": [
+          "A) Bosques templados",
+          "B) Selvas bajas caducifolias",
+          "C) Cactáceas",
+          "D) Plantas trepadoras"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Desde dónde parte el paseo en lancha por el río Grijalva?",
+        "opciones": [
+          "A) Desde Tuxtla Gutiérrez",
+          "B) Desde el muelle turístico de Chiapa de Corzo",
+          "C) Desde la presa de Chicoasén",
+          "D) Desde el embarcadero de Cahuaré"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué actividades se pueden realizar en el parque ecoturístico del cañón?",
+        "opciones": [
+          "A) Escalar montañas",
+          "B) Nadar en aguas cristalinas",
+          "C) Hacer camping",
+          "D) Cazar animales"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué atracción ha sido nominada como una de las Siete Nuevas Maravillas Naturales del mundo?",
+        "opciones": [
+          "A) La Ceiba",
+          "B) El Cañón del Sumidero",
+          "C) El río Grijalva",
+          "D) Tuxtla Gutiérrez"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de animales se menciona que habitan en el cañón?",
+        "opciones": [
+          "A) Solamente aves",
+          "B) Solo mamíferos",
+          "C) Una variedad de especies",
+          "D) Ninguna especie"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Jardín de San Marcos",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año fue construido el Jardín de San Marcos?",
+        "opciones": [
+          "A) 1800",
+          "B) 1842",
+          "C) 1900",
+          "D) 2000"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué material se utiliza en la barda y los arcos del Jardín de San Marcos?",
+        "opciones": [
+          "A) Mármol",
+          "B) Cantera rosa",
+          "C) Ladrillo",
+          "D) Cemento"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las actividades que se realiza en el Jardín durante la Feria de San Marcos?",
+        "opciones": [
+          "A) Competencias deportivas",
+          "B) Conciertos musicales",
+          "C) Exhibiciones de arte",
+          "D) Ferias gastronómicas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se celebró en 2009 en el Jardín de San Marcos?",
+        "opciones": [
+          "A) Su primer aniversario",
+          "B) Su 434° aniversario",
+          "C) Una remodelación completa",
+          "D) La inauguración de una nueva estatua"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quiénes son algunos de los artistas cuyas obras inspiraron las estatuas en el Jardín?",
+        "opciones": [
+          "A) Diego Rivera y Frida Kahlo",
+          "B) Saturnino Herrán y José Guadalupe Posada",
+          "C) Rufino Tamayo y David Alfaro Siqueiros",
+          "D) José Clemente Orozco y Manuel Álvarez Bravo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de personajes representan algunas de las estatuas en el Jardín?",
+        "opciones": [
+          "A) Personajes históricos",
+          "B) Personajes de cuentos de hadas",
+          "C) Personajes de la vida cotidiana",
+          "D) Personajes mitológicos"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Cabezas admirables",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año se celebraron las primeras olimpiadas modernas sin participantes femeninas?",
+        "opciones": [
+          "A) 1900",
+          "B) 1896",
+          "C) 1967",
+          "D) 2012"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién organizó los primeros Juegos Mundiales Femeninos?",
+        "opciones": [
+          "A) Pierre de Coubertin",
+          "B) Kathrine Switzer",
+          "C) Alice Milliat",
+          "D) Una atleta desconocida"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué número de competidora utilizó Kathrine Switzer para inscribirse en el maratón de Boston?",
+        "opciones": [
+          "A) 106",
+          "B) 261",
+          "C) 197",
+          "D) 390"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué actividades deportivas tenían prohibidas las mujeres en las olimpiadas antes de 1922?",
+        "opciones": [
+          "A) Atletismo y natación",
+          "B) Fútbol y baloncesto",
+          "C) Esgrima y natación",
+          "D) Atletismo, natación, esgrima y fútbol"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué creía Pierre de Coubertin sobre las mujeres que salían de sus casas?",
+        "opciones": [
+          "A) Que eran fuertes",
+          "B) Que se enfermarían",
+          "C) Que podrían competir",
+          "D) Que serían admiradas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué año las mujeres pudieron participar en todos los deportes en los Juegos Olímpicos?",
+        "opciones": [
+          "A) 1900",
+          "B) 1967",
+          "C) 1980",
+          "D) 2012"
+        ],
+        "respuesta_correcta": "D"
+      }
+    ]
+  },
+  {
+    "lectura": "El maestro zapatero",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué significa el dicho 'zapatero, a tus zapatos'?",
+        "opciones": [
+          "A) Que todos deben dedicarse a lo que no saben hacer",
+          "B) Que cada uno debe dedicarse a lo que sabe hacer",
+          "C) Que los zapateros deben dejar su oficio",
+          "D) Que los zapatos no son importantes"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las reparaciones más solicitadas en los talleres de zapatería?",
+        "opciones": [
+          "A) Cambiar los cordones",
+          "B) Cambiar las tapas de los tacones",
+          "C) Limpiar los zapatos",
+          "D) Cambiar el color del calzado"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿De qué material se hace generalmente la tapa que cubre el tacón?",
+        "opciones": [
+          "A) Madera",
+          "B) Cuero",
+          "C) Sintético",
+          "D) Tela"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué se necesita para fabricar un par de zapatos en León, Guanajuato?",
+        "opciones": [
+          "A) Solo un zapatero",
+          "B) Un modelista y un fabricante",
+          "C) Solo un fabricante",
+          "D) Un diseñador de moda"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo puede tardar en fabricarse un par de zapatos, según la complejidad del modelo?",
+        "opciones": [
+          "A) Un día",
+          "B) Una semana",
+          "C) De quince días a un mes",
+          "D) Dos meses"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cómo se transmite el conocimiento del oficio de zapatero?",
+        "opciones": [
+          "A) A través de libros",
+          "B) De maestros a aprendices",
+          "C) En escuelas especializadas",
+          "D) Por internet"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Árbol",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué representa la palabra 'árbol' en la lectura?",
+        "opciones": [
+          "A) Un animal",
+          "B) Una planta",
+          "C) Una montaña",
+          "D) Un río"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la forma correcta de referirse a un 'árbol'?",
+        "opciones": [
+          "A) Árboles",
+          "B) Árbola",
+          "C) Árbolito",
+          "D) Árbo"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  },
+  {
+    "lectura": "¿Del que pica o del que no pica?",
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo describe el autor el chicharrón que prepara su hermano?",
+        "opciones": [
+          "A) Insípido",
+          "B) Cocopalatic",
+          "C) Amargo",
+          "D) Dulce"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las razones por las que los chiles desarrollaron su picor?",
+        "opciones": [
+          "A) Para atraer a los humanos",
+          "B) Como defensa contra animales e insectos",
+          "C) Por la influencia del clima",
+          "D) Para mejorar el sabor de la comida"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué bebida consumían los mayas y los aztecas para curar resfriados?",
+        "opciones": [
+          "A) Atole de maíz con chile",
+          "B) Té de hierbas",
+          "C) Chocolate caliente",
+          "D) Agua de jamaica"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué efecto tenía el humo de chiles secos en las batallas según los mexicas?",
+        "opciones": [
+          "A) Animaba a sus guerreros",
+          "B) Ahogaba al enemigo",
+          "C) Creaba confusión",
+          "D) Aumentaba la sed"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes chiles no se menciona en la lectura?",
+        "opciones": [
+          "A) Chile habanero",
+          "B) Chile morrón",
+          "C) Chile jalapeño",
+          "D) Chile de árbol"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué efecto tiene el comer chile según algunos psicólogos?",
+        "opciones": [
+          "A) Relajación",
+          "B) Emoción extrema",
+          "C) Indiferencia",
+          "D) Satisfacción inmediata"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Decido con libertad y responsabilidad",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué concepto se relaciona con la acción de decidir según el texto?",
+        "opciones": [
+          "A) Indiferencia",
+          "B) Libertad",
+          "C) Obligación",
+          "D) Confusión"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "Según el texto, ¿qué se debe considerar al tomar decisiones?",
+        "opciones": [
+          "A) La suerte",
+          "B) La responsabilidad",
+          "C) La opinión de otros",
+          "D) La rapidez"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La sal de cada día",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es uno de los métodos más populares para obtener sal según el texto?",
+        "opciones": [
+          "A) Hervir plantas",
+          "B) Evaporar agua del mar",
+          "C) Extraer de la halita",
+          "D) Comprar en el mercado"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Por qué era tan valorada la sal entre los antiguos romanos?",
+        "opciones": [
+          "A) Se usaba para cocinar",
+          "B) Era un elemento purificador",
+          "C) Se utilizaba como forma de pago",
+          "D) Era el único conservador disponible"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué función vital realiza la sal en nuestro cuerpo?",
+        "opciones": [
+          "A) Aumenta el apetito",
+          "B) Retiene líquidos",
+          "C) Mejora la digestión",
+          "D) Acelera el metabolismo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de alimentos se pueden conservar por más tiempo con sal?",
+        "opciones": [
+          "A) Verduras",
+          "B) Frutas",
+          "C) Lácteos",
+          "D) Carnes"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué simboliza la sal en el altar del Día de Muertos en México?",
+        "opciones": [
+          "A) La riqueza",
+          "B) La purificación",
+          "C) La abundancia",
+          "D) La fertilidad"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las formas de extracción de sal mencionadas en el texto?",
+        "opciones": [
+          "A) Congelar alimentos",
+          "B) Evaporar agua de manantiales",
+          "C) Calentar rocas",
+          "D) Fermentar productos"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La sucesión de Fibonacci en la naturaleza",
+    "preguntas": [
+      {
+        "pregunta": "¿Quién fue el matemático que inventó la sucesión de Fibonacci?",
+        "opciones": [
+          "A) Leonardo da Vinci",
+          "B) Leonardo de Pisa",
+          "C) Isaac Newton",
+          "D) Galileo Galilei"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué número sigue en la sucesión de Fibonacci después de 21?",
+        "opciones": [
+          "A) 34",
+          "B) 30",
+          "C) 25",
+          "D) 29"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cómo se agrupan las semillas en un girasol maduro?",
+        "opciones": [
+          "A) En líneas rectas",
+          "B) En círculos concéntricos",
+          "C) En espirales",
+          "D) En triángulos"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuántas espirales tiene un girasol que giran en sentido contrario a las manecillas del reloj según el texto?",
+        "opciones": [
+          "A) 34",
+          "B) 55",
+          "C) 21",
+          "D) 13"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué relación tiene la sucesión de Fibonacci con las flores?",
+        "opciones": [
+          "A) Tienen la misma cantidad de pétalos",
+          "B) Muchas flores tienen números de pétalos que son de la sucesión de Fibonacci",
+          "C) Todas las flores son de Fibonacci",
+          "D) Las flores no tienen relación con Fibonacci"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el primer número de la sucesión de Fibonacci?",
+        "opciones": [
+          "A) 0",
+          "B) 1",
+          "C) 2",
+          "D) 3"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Análisis de la pintura de Santiago Savi",
+    "preguntas": [
+      {
+        "pregunta": "¿Quién es el autor de la pintura que se menciona en la lectura?",
+        "opciones": [
+          "A) Pablo Picasso",
+          "B) Santiago Savi",
+          "C) Diego Rivera",
+          "D) Frida Kahlo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se sugiere hacer al observar la pintura de Santiago Savi?",
+        "opciones": [
+          "A) Ignorar los detalles",
+          "B) Crear una historia",
+          "C) Vender la pintura",
+          "D) Copiarla"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Cacao",
+    "preguntas": [
+      {
+        "pregunta": "¿De qué origen es el árbol de cacao?",
+        "opciones": [
+          "A) Africano",
+          "B) Americano",
+          "C) Asiático",
+          "D) Europeo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué significa el nombre 'cacahuatl' en náhuatl?",
+        "opciones": [
+          "A) Jugo dulce",
+          "B) Jugo amargo",
+          "C) Fruto sagrado",
+          "D) Semilla preciosa"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién era Ek Chuah en la cultura maya?",
+        "opciones": [
+          "A) Dios de la guerra",
+          "B) Dios del cacao y del comercio",
+          "C) Dios del sol",
+          "D) Dios de la agricultura"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo preferían los españoles la bebida de cacao?",
+        "opciones": [
+          "A) Fría y amarga",
+          "B) Caliente y endulzada",
+          "C) Con achiote",
+          "D) Sin ingredientes adicionales"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes bebidas se prepara con cacao en México?",
+        "opciones": [
+          "A) Agua de jamaica",
+          "B) Tejate",
+          "C) Horchata",
+          "D) Café"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las formas más populares de consumir cacao hoy en día?",
+        "opciones": [
+          "A) En polvo",
+          "B) En tabletas o barras de chocolate",
+          "C) En infusiones",
+          "D) En sopas"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Nuestros antepasados empezaron a tejer y a confeccionar su ropa muchos años antes de inventar las letras y la escritura. La palabra texto viene del latín textus, que significa tejido. Tejer es entrelazar hilos para formar telas, vestidos, pantalones y ropa. Para crear un texto, entrelazamos letras para formar palabras, frases, historias y libros. Hilo: hebra larga y delgada de un material textil. Enmarañar: enredar, revolver el hilo del tejido. Cabo: es el extremo del hilo, el principio y el fin de la madeja. Se atan para formar un tejido. Urdir: preparar los hilos para hacer una tela. Trama: conjunto de hilos que, cruzados con los de la urdimbre, forman una tela. Nudo: entrelazamiento de los extremos de un hilo que con dificultad se pueden soltar. Desenlazar: remover o deshacer un lazo o un nudo. Se le llama tejedor de palabras a la persona que reúne y resume diferentes ideas durante las asambleas comunitarias. Hay bordados muy coloridos que narran historias personales o comunitarias. Hay tejidos que parecen códices hechos con hilos, pues guardan la memoria histórica de nuestros pueblos. Los cuadros estilo Niérika son hechos con estambre pegado con cera de Campeche, en ellos se narran los sueños y los mitos de las comunidades wixáricas. Los textiles guardan la memoria de nuestros pueblos.",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué significa la palabra 'texto' según la lectura?",
+        "opciones": [
+          "A) Es un tipo de tejido",
+          "B) Proviene del latín textus",
+          "C) Es un material textil",
+          "D) Es un tipo de ropa"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se llama a la persona que reúne y resume ideas durante asambleas comunitarias?",
+        "opciones": [
+          "A) Tejedor de hilos",
+          "B) Tejedor de palabras",
+          "C) Bordador",
+          "D) Urdiendo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué narran los cuadros estilo Niérika?",
+        "opciones": [
+          "A) La historia de la escritura",
+          "B) Los sueños y mitos de las comunidades wixáricas",
+          "C) La técnica de tejido",
+          "D) La evolución de la moda"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué es la trama en el contexto de la lectura?",
+        "opciones": [
+          "A) El final de una historia",
+          "B) Un tipo de hilo",
+          "C) Conjunto de hilos que forman una tela",
+          "D) Un tipo de tejido tradicional"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué material se usa en los cuadros estilo Niérika?",
+        "opciones": [
+          "A) Hilo de algodón",
+          "B) Estambre pegado con cera de Campeche",
+          "C) Tela de seda",
+          "D) Cualquier tipo de hilo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de historias narran los bordados mencionados en la lectura?",
+        "opciones": [
+          "A) Historias de la vida cotidiana",
+          "B) Historias personales o comunitarias",
+          "C) Historias de personajes famosos",
+          "D) Historias de la naturaleza"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Cortitos",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la principal preocupación de Rafaelito en el cortometraje 'Los ausentes'?",
+        "opciones": [
+          "A) No tener un instrumento musical",
+          "B) No tener suficientes sones en su repertorio",
+          "C) No conocer a los asistentes al velorio",
+          "D) No querer asistir al evento"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué lección aprenden los estudiantes en 'Don Isidro, una vida pastoreando'?",
+        "opciones": [
+          "A) La importancia de la música",
+          "B) La calma y otras formas de ver la vida",
+          "C) La historia del pastor",
+          "D) La necesidad de estudiar más"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "En 'El maestro y la flor', ¿qué debe decidir el maestro?",
+        "opciones": [
+          "A) Si debe plantar más flores",
+          "B) Si arriesgará su amor por cuidar la flor",
+          "C) Si debe cambiar de trabajo",
+          "D) Si va a salir de viaje"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué reflexión se plantea en 'El regreso del vampiro'?",
+        "opciones": [
+          "A) Sobre el pasado del vampiro",
+          "B) Sobre las relaciones interpersonales en el presente",
+          "C) Sobre cómo cazar en el futuro",
+          "D) Sobre la vida en un panteón"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "En 'Lluvia en los ojos', ¿qué debe decidir Sofía respecto a las pertenencias de su abuelo?",
+        "opciones": [
+          "A) Venderlas",
+          "B) Guardarlas todas",
+          "C) Decidir qué hacer con una en particular",
+          "D) Regalar todas"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tema común se explora en los cortometrajes mencionados?",
+        "opciones": [
+          "A) La música",
+          "B) La vida cotidiana",
+          "C) La pérdida y el cuidado emocional",
+          "D) El futuro"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "El brujo del mar",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es 'La Queta'?",
+        "opciones": [
+          "A) Un tipo de pez",
+          "B) Una lancha",
+          "C) Una isla",
+          "D) Un tiburón"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Por qué el papá de la narradora no desayuna antes de salir al mar?",
+        "opciones": [
+          "A) Porque no tiene hambre",
+          "B) Para no atraer a los tiburones",
+          "C) Porque siempre llega tarde",
+          "D) Porque come con las ballenas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué animal se parece a una colcha según la narradora?",
+        "opciones": [
+          "A) Un tiburón",
+          "B) Una manta gigante",
+          "C) Un delfín",
+          "D) Una tortuga"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué significa 'extinguir' según la conversación entre la narradora y su papá?",
+        "opciones": [
+          "A) Que aumentan en número",
+          "B) Que están desapareciendo",
+          "C) Que vienen de lejos",
+          "D) Que son peligrosos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué es el plancton según la explicación del papá?",
+        "opciones": [
+          "A) Un tipo de pez grande",
+          "B) Organismos minúsculos que flotan en el mar",
+          "C) Una especie de delfín",
+          "D) Un tipo de alga gigante"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se siente la narradora cuando su papá se va al mar?",
+        "opciones": [
+          "A) Triste y preocupada",
+          "B) Emocionada y feliz",
+          "C) Indiferente",
+          "D) Asustada y sola"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "El nopal: el corazón de México",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué encontraron los mexicas en el islote en medio del lago?",
+        "opciones": [
+          "A) Un pez gigante",
+          "B) Un águila devorando una serpiente",
+          "C) Un tesoro escondido",
+          "D) Una estatua antigua"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el significado del nopal en la leyenda mexica?",
+        "opciones": [
+          "A) Representa el inframundo",
+          "B) Simboliza la sagrada unión del inframundo, la Tierra y el cielo",
+          "C) Es un símbolo de guerra",
+          "D) Representa la prosperidad económica"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de alimentos se mencionan como acompañantes del nopal en la lectura?",
+        "opciones": [
+          "A) Solo verduras",
+          "B) Carne de venado, guajolote, huachinango",
+          "C) Pescados y mariscos",
+          "D) Solo frutas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué nutrientes contiene el nopal según la lectura?",
+        "opciones": [
+          "A) Solo carbohidratos",
+          "B) Vitaminas A y C, calcio, magnesio, sodio",
+          "C) Solo proteínas",
+          "D) Azúcares y grasas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se puede extraer del insecto que se cría en el nopal?",
+        "opciones": [
+          "A) Un colorante natural",
+          "B) Un veneno",
+          "C) Un tipo de miel",
+          "D) Un tipo de aceite"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Dónde se produce actualmente el nopal además de México?",
+        "opciones": [
+          "A) Solo en Estados Unidos",
+          "B) En Estados Unidos, Medio Oriente, África y China",
+          "C) Solo en Europa",
+          "D) En ninguna parte del mundo"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Busquemos",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la función principal de un mapa según el texto?",
+        "opciones": [
+          "A) Decorar las paredes",
+          "B) Representar la Tierra y sus características",
+          "C) Mostrar solo las estrellas",
+          "D) Ser un objeto de colección"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué indica la escala en un mapa?",
+        "opciones": [
+          "A) La cantidad de colores utilizados",
+          "B) La proporción del tamaño real de un objeto",
+          "C) La cantidad de información que contiene",
+          "D) La dirección de los astros"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué elementos se pueden identificar en un mapa?",
+        "opciones": [
+          "A) Solo países",
+          "B) Solo ciudades",
+          "C) Continentes, países, y elementos geográficos",
+          "D) Solo montañas y ríos"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué simboliza la rosa de los vientos en un mapa?",
+        "opciones": [
+          "A) La ubicación de las ciudades",
+          "B) Los puntos cardinales",
+          "C) La escala del mapa",
+          "D) La altitud de las montañas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se representan normalmente los ríos en un mapa?",
+        "opciones": [
+          "A) Con líneas verdes gruesas",
+          "B) Con líneas delgadas azules",
+          "C) Con puntos rojos",
+          "D) Con áreas sombreadas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué debe contener un mapa para ser útil?",
+        "opciones": [
+          "A) Solo el nombre del creador",
+          "B) Un título, simbología, escala y rosa de los vientos",
+          "C) Solo colores brillantes",
+          "D) Información sobre la historia del lugar"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Meztli sueña conejitos",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué le costaba a Meztli hacer antes de dormir?",
+        "opciones": [
+          "A) Jugar con sus amigos",
+          "B) Dormirse",
+          "C) Comer",
+          "D) Hacer tareas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué fenómeno lunar afectaba más a Meztli?",
+        "opciones": [
+          "A) La Luna Nueva",
+          "B) La Luna Creciente",
+          "C) La Luna Menguante",
+          "D) La Luna Llena"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué ofreció el conejo a Quetzalcóatl para ayudarlo?",
+        "opciones": [
+          "A) Un plátano",
+          "B) Una zanahoria",
+          "C) Su propia carne",
+          "D) Hierba"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué hizo Buda para ser recompensado por su sacrificio?",
+        "opciones": [
+          "A) Se arrojó al fuego",
+          "B) Se convirtió en un dios",
+          "C) Comió hierba",
+          "D) Buscó comida"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cómo se llama el conejo en Corea?",
+        "opciones": [
+          "A) Tho Trang",
+          "B) Daltokki",
+          "C) Buda",
+          "D) Quetzalcóatl"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el sueño de Meztli al final de la historia?",
+        "opciones": [
+          "A) Ser una estrella",
+          "B) Ser la primera mujer mexicana en pisar la Luna",
+          "C) Viajar a Japón",
+          "D) Conocer a Quetzalcóatl"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Ciudad histórica fortificada de Campeche y fuerte de San Miguel",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año se fundó la Villa de San Francisco?",
+        "opciones": [
+          "A) 1686",
+          "B) 1540",
+          "C) 1774",
+          "D) 1600"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién fue el pirata que llevó a cabo un ataque devastador en 1686?",
+        "opciones": [
+          "A) Francis Drake",
+          "B) Henry Morgan",
+          "C) Laurent de Graff",
+          "D) Barbanegra"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué longitud alcanzó la muralla construida para proteger la ciudad?",
+        "opciones": [
+          "A) 1500 metros",
+          "B) 2500 metros",
+          "C) 3000 metros",
+          "D) 2000 metros"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántos accesos tenía la muralla de Campeche?",
+        "opciones": [
+          "A) Tres",
+          "B) Cuatro",
+          "C) Cinco",
+          "D) Seis"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué representa el fuerte de San Miguel en la actualidad?",
+        "opciones": [
+          "A) Un hotel",
+          "B) Un museo",
+          "C) Una escuela",
+          "D) Una plaza"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de productos comerciaba la ciudad de Campeche durante la época colonial?",
+        "opciones": [
+          "A) Café y azúcar",
+          "B) Palo de Campeche y especias",
+          "C) Oro y plata",
+          "D) Tabaco y algodón"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Las arañas",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuántos ojos tienen la mayoría de las arañas?",
+        "opciones": [
+          "A) 2",
+          "B) 4",
+          "C) 6",
+          "D) 8"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Cuál es el principal uso de las telarañas?",
+        "opciones": [
+          "A) Hacer nidos",
+          "B) Proteger huevos",
+          "C) Atrapara presas",
+          "D) Servir como paracaídas"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tipo de araña se conoce como vegetariana?",
+        "opciones": [
+          "A) Violinista",
+          "B) Bagheera kiplingi",
+          "C) Tarántula",
+          "D) Araña cangrejo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes arañas es considerada peligrosa en México?",
+        "opciones": [
+          "A) Araña cangrejo",
+          "B) Violinista",
+          "C) Saltarina",
+          "D) Araña de jardín"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Desde hace cuántos años existen las arañas en la Tierra?",
+        "opciones": [
+          "A) 100 millones",
+          "B) 200 millones",
+          "C) 300 millones",
+          "D) 400 millones"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Qué función cumplen las arañas en los ecosistemas?",
+        "opciones": [
+          "A) Producir veneno",
+          "B) Mantener el equilibrio natural",
+          "C) Ser mascotas",
+          "D) Vivir en el agua"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Amoxcalli, la casa de los libros",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué significa la palabra 'amoxcalli' en las culturas nahuas?",
+        "opciones": [
+          "A) Biblioteca",
+          "B) Casa de los libros",
+          "C) Guardián de la sabiduría",
+          "D) Códice antiguo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quiénes eran los tlacuilos?",
+        "opciones": [
+          "A) Los sabios de la cultura nahua",
+          "B) Los bibliotecarios del mundo prehispánico",
+          "C) Los guerreros mexicas",
+          "D) Los comerciantes de códices"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántos códices originales sobreviven actualmente?",
+        "opciones": [
+          "A) Diez",
+          "B) Quince",
+          "C) Dieciséis",
+          "D) Veinte"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué hizo fray Bernardino de Sahagún después de la caída de Tenochtitlan?",
+        "opciones": [
+          "A) Destruyó todos los códices",
+          "B) Aprendió náhuatl y registró conocimientos de los tlacuilos",
+          "C) Creó una nueva lengua",
+          "D) Se convirtió en tlacuilo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de escritura se utilizaba en los códices de los pueblos originarios?",
+        "opciones": [
+          "A) Alfabética",
+          "B) Pictográfica-ideográfica",
+          "C) Cifrada",
+          "D) Digital"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué obra se considera la primera enciclopedia en la que los europeos conocieron el mundo indígena?",
+        "opciones": [
+          "A) Códice Mendoza",
+          "B) Códice Florentino",
+          "C) Códice de la Vida Nueva",
+          "D) Códice de Tlatelolco"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "El monumento de La Caja del Agua",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año fue inaugurada la Caja del Agua?",
+        "opciones": [
+          "A) 1800",
+          "B) 1835",
+          "C) 1900",
+          "D) 2000"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la función principal que tenía la Caja del Agua?",
+        "opciones": [
+          "A) Almacenar comida",
+          "B) Guardar y distribuir agua",
+          "C) Ser un centro de entretenimiento",
+          "D) Servir como monumento conmemorativo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué organización declaró a la Caja del Agua Patrimonio de la Humanidad?",
+        "opciones": [
+          "A) UNESCO",
+          "B) OMS",
+          "C) ONU",
+          "D) OEA"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué escultura se encuentra a un costado de la Caja del Agua?",
+        "opciones": [
+          "A) El Aguador",
+          "B) La Libertad",
+          "C) La Justicia",
+          "D) El Pájaro"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cómo se le conocía a la persona que transportaba agua desde las fuentes hasta las casas?",
+        "opciones": [
+          "A) Aguador",
+          "B) Tortugo",
+          "C) Mensajero",
+          "D) Recolector"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué tipo de materiales se utilizó para construir la Caja del Agua?",
+        "opciones": [
+          "A) Ladrillo",
+          "B) Concreto",
+          "C) Cantera",
+          "D) Madera"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Malabia",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué significa 'malabarista' en la lectura?",
+        "opciones": [
+          "A) Un tipo de arte",
+          "B) Una persona que realiza malabares",
+          "C) Un término geográfico",
+          "D) Un instrumento musical"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Comida mexicana",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué reconocimiento recibió la gastronomía mexicana el 16 de noviembre de 2010?",
+        "opciones": [
+          "A) Patrimonio Cultural de la Humanidad",
+          "B) Patrimonio Cultural Inmaterial de la Humanidad",
+          "C) Reconocimiento Mundial de la Gastronomía",
+          "D) Patrimonio Histórico de México"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué ingrediente se utiliza comúnmente en la preparación de enchiladas potosinas?",
+        "opciones": [
+          "A) Frijoles",
+          "B) Masa mezclada con puré de chile colorado",
+          "C) Tortillas de harina",
+          "D) Carne de res"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es un postre mencionado en la lectura que está hecho de amaranto?",
+        "opciones": [
+          "A) Torta ahogada",
+          "B) Alegrías de amaranto",
+          "C) Leche quemada",
+          "D) Pejelagarto"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué platillo consiste en un chile poblano relleno de un guiso de picadillo?",
+        "opciones": [
+          "A) Chiles en nogada",
+          "B) Tamales guichepos",
+          "C) Pipián de pollo",
+          "D) Enchiladas potosinas"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué bebida se elabora con savia de palma fermentada?",
+        "opciones": [
+          "A) Tuba",
+          "B) Aguachile",
+          "C) Pozole",
+          "D) Chorizo verde"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuál es uno de los ingredientes en la cochinita pibil?",
+        "opciones": [
+          "A) Carne de res",
+          "B) Carne de cerdo adobada en achiote",
+          "C) Frijoles refritos",
+          "D) Tortillas de maíz"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La deformación de las casas suecas",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué práctica prehispánica se descubrió en el cementerio de Ónavas, Sonora?",
+        "opciones": [
+          "A) La creación de esculturas",
+          "B) La deformación del cráneo",
+          "C) La pintura de cuerpos",
+          "D) La construcción de tumbas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuándo se estima que comenzó la práctica de la deformación craneal en Ónavas?",
+        "opciones": [
+          "A) 1600 d.C.",
+          "B) 1000 a.n.e.",
+          "C) 1620 d.C.",
+          "D) 1400 a.n.e."
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué elemento se utilizaba para deformar el cráneo de los bebés?",
+        "opciones": [
+          "A) Un casco de metal",
+          "B) Un vendaje de tela",
+          "C) Una tabla",
+          "D) Un anillo de piedra"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuál era el propósito de limar los dientes entre los antiguos pobladores de Ónavas?",
+        "opciones": [
+          "A) Para mejorar la salud dental",
+          "B) Como rito de iniciación",
+          "C) Para evitar caries",
+          "D) Para ser más atractivos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué materiales se encontraron en la tumba junto a los cuerpos en el cementerio de Ónavas?",
+        "opciones": [
+          "A) Solo textiles",
+          "B) Artefactos de caza y textiles",
+          "C) Solo joyas",
+          "D) Solo huesos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué culturas se menciona que también practicaban la deformación craneal?",
+        "opciones": [
+          "A) Solo los aztecas",
+          "B) Solo los mayas",
+          "C) Los mayas y otros pueblos de Mesoamérica",
+          "D) Ninguna"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Aliria Morales",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es la masa-roca?",
+        "opciones": [
+          "A) Un tipo de pintura",
+          "B) Un material de piedra y fibra de vidrio",
+          "C) Un tipo de escultura",
+          "D) Un estilo artístico"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las características de la masa-roca mencionadas en el texto?",
+        "opciones": [
+          "A) Es fácil de romper",
+          "B) Es muy resistente y de extraordinaria plasticidad",
+          "C) Solo se puede usar para esculturas pequeñas",
+          "D) Es pesada y difícil de manejar"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "Según Aliria Morales, ¿qué representa el cuerpo?",
+        "opciones": [
+          "A) Un objeto sin significado",
+          "B) Resistencia y un lugar que habitamos",
+          "C) Solo carne y células",
+          "D) Una máquina de deseos sin memoria"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué busca Aliria Morales en su arte según la lectura?",
+        "opciones": [
+          "A) Seguir reglas rígidas",
+          "B) La búsqueda colectiva con otros cuerpos",
+          "C) Crear obras sin sentido",
+          "D) Abandono de la libertad"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de obras crea Aliria Morales?",
+        "opciones": [
+          "A) Solo pinturas",
+          "B) Composiciones basadas en reglas rígidas",
+          "C) Obras cargadas de lirismo y sin estructuras impuestas",
+          "D) Esculturas exclusivamente de tamaño monumental"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué aspectos de su trabajo menciona Aliria Morales?",
+        "opciones": [
+          "A) Solo pintura y escultura",
+          "B) Conocimiento profundo sobre materiales y valores plásticos",
+          "C) Abandono total de la técnica",
+          "D) Creaciones sin ninguna base simbólica"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Máscaras mexicanas",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué representan las máscaras mencionadas en la lectura?",
+        "opciones": [
+          "A) Solo personajes históricos",
+          "B) Personajes de narraciones tradicionales y seres mitológicos",
+          "C) Solo animales",
+          "D) Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿De qué materiales se hacen muchas de las máscaras?",
+        "opciones": [
+          "A) Solo de papel",
+          "B) Madera y cartón",
+          "C) Solo de cartón",
+          "D) Solo de tela"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre de la celebración donde se usan máscaras de viejitos?",
+        "opciones": [
+          "A) Xantolo Huasteco",
+          "B) Carnaval de Veracruz",
+          "C) Fiesta de los muertos",
+          "D) Celebración de Hidalgo"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿De qué estado son los chinelos mencionados en la lectura?",
+        "opciones": [
+          "A) Chiapas",
+          "B) Morelos",
+          "C) Guerrero",
+          "D) Hidalgo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué características tienen las máscaras de los morenos en el baile?",
+        "opciones": [
+          "A) Son de papel",
+          "B) Son de cartón",
+          "C) Visten indumentarias vistosas",
+          "D) Son siempre de color negro"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué materiales coloridos se adhieren a algunas máscaras?",
+        "opciones": [
+          "A) Solo pintura",
+          "B) Espejos, lentejuelas y chaquiras",
+          "C) Solo telas",
+          "D) Ninguno de los anteriores"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "¿Cero comunicación?",
+    "preguntas": [
+      {
+        "pregunta": "¿Por qué se llama 'zona del silencio'?",
+        "opciones": [
+          "A) Porque no hay fauna",
+          "B) Por la fuerte carga magnética que impide la comunicación",
+          "C) Porque es un desierto sin vida",
+          "D) Porque no se permite la entrada de personas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué acontecimiento ocurrió en 1970 relacionado con la zona del silencio?",
+        "opciones": [
+          "A) Una exploración científica",
+          "B) La caída accidental de un misil",
+          "C) Un avistamiento de platillos voladores",
+          "D) La formación de un nuevo lago"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes especies es endémica de la zona del silencio?",
+        "opciones": [
+          "A) Tortuga llanera",
+          "B) León",
+          "C) Lobo marino",
+          "D) Águila real"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué se ha encontrado en la zona del silencio que es sorprendente para un desierto?",
+        "opciones": [
+          "A) Arqueología prehispánica",
+          "B) Fósiles marinos",
+          "C) Ríos subterráneos",
+          "D) Montañas de sal"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué fenómeno natural se menciona que pudo haber influido en el magnetismo de la zona?",
+        "opciones": [
+          "A) Un volcán activo",
+          "B) La caída de un meteorito",
+          "C) Un tsunami",
+          "D) Un terremoto"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las teorías sobre la evolución de la tortuga llanera?",
+        "opciones": [
+          "A) Se originó de un reptil terrestre",
+          "B) Evolucionó de una tortuga marina del mar de Thetis",
+          "C) Es un producto de mutaciones genéticas recientes",
+          "D) Es una especie traída por colonizadores"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Músico",
+    "preguntas": [
+      {
+        "pregunta": "¿A qué edad comenzó Gerardo Sifuentes a considerarse científico?",
+        "opciones": [
+          "A) Desde los seis años",
+          "B) Desde los nueve años",
+          "C) Desde los doce años",
+          "D) Desde los diecisiete años"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "Según Gerardo Sifuentes, ¿qué relación existe entre la música y la ciencia?",
+        "opciones": [
+          "A) La música es solo arte",
+          "B) La música es física orgánica aplicada",
+          "C) La música no tiene nada que ver con la ciencia",
+          "D) La música es solo espiritualidad"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué logró Gerardo a través de sus composiciones y discos?",
+        "opciones": [
+          "A) Encontrar un trabajo estable",
+          "B) Abrirse puertas y alcanzar seguidores",
+          "C) Convertirse en un científico reconocido",
+          "D) Viajar en el tiempo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué experiencia menciona Gerardo que obtuvo al crear música?",
+        "opciones": [
+          "A) Viajar por el espacio a otros mundos",
+          "B) Aprender sobre física",
+          "C) Tener éxito financiero",
+          "D) Hacer amigos en la industria musical"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Quién es el autor del texto?",
+        "opciones": [
+          "A) Alex Flores Avila",
+          "B) Gerardo Sifuentes",
+          "C) Un científico anónimo",
+          "D) Un músico famoso"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué edad tenía Gerardo Sifuentes al finalizar su etapa como científico?",
+        "opciones": [
+          "A) Nueve años",
+          "B) Diecisiete años",
+          "C) Veinte años",
+          "D) Catorce años"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "No es kriptonita",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué se menciona que no es el pequeño dinosaurio en la palma del asombro?",
+        "opciones": [
+          "A) Un superhéroe",
+          "B) Un videojuego",
+          "C) Un obsequio de sus padres",
+          "D) Todas las anteriores"
+        ],
+        "respuesta_correcta": "D"
+      },
+      {
+        "pregunta": "¿Cómo describe el autor su sentimiento hacia el brócoli?",
+        "opciones": [
+          "A) Lo ama",
+          "B) Lo odia",
+          "C) No lo menciona",
+          "D) Le gusta en ensaladas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué relación se sugiere entre el autor y el gallo?",
+        "opciones": [
+          "A) Es su mascota",
+          "B) Lo adopta",
+          "C) Lo odia",
+          "D) Es su amigo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se sugiere que podría ser un 'talismán' en el texto?",
+        "opciones": [
+          "A) Un dinosaurio",
+          "B) Un mapa",
+          "C) Un videojuego",
+          "D) Un obsequio"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se menciona que podría 'lame' el rostro del autor?",
+        "opciones": [
+          "A) Un dinosaurio",
+          "B) Un perro",
+          "C) Un pequeño león",
+          "D) Un gallo"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿De qué lugar es José Alfredo (Ito) Contreras Godinez?",
+        "opciones": [
+          "A) Sinaloa",
+          "B) SINALDA",
+          "C) México",
+          "D) Sinalua"
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  },
+  {
+    "lectura": "Ralámuli",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es el nombre del pueblo donde se encuentra la comunidad ralámuli?",
+        "opciones": [
+          "A) Chihuahua",
+          "B) Creel",
+          "C) El Fuerte",
+          "D) Sinaloa"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué significa Ralámuli?",
+        "opciones": [
+          "A) Corredores a pie",
+          "B) Tierra de montañas",
+          "C) Pueblo mágico",
+          "D) Gente de la sierra"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuál es uno de los juegos tradicionales de los ralámulis?",
+        "opciones": [
+          "A) Carrera de relevos",
+          "B) Carrera de bola",
+          "C) Carrera de obstáculos",
+          "D) Maratón de montaña"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué bebida consumen los ralámulis para recuperar energía?",
+        "opciones": [
+          "A) Agua de mesa",
+          "B) Pinole",
+          "C) Jugo de naranja",
+          "D) Té de hierbas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de calzado utilizan los corredores ralámuli en sus competiciones?",
+        "opciones": [
+          "A) Zapatillas de correr",
+          "B) Botas de montaña",
+          "C) Huaraches",
+          "D) Sandalias"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué distancia pueden correr en un solo juego de la carrera de bola?",
+        "opciones": [
+          "A) 50 kilómetros",
+          "B) 70 kilómetros",
+          "C) 90 kilómetros",
+          "D) 100 kilómetros"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Chac Mool",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué forma tiene la escultura Chac mool?",
+        "opciones": [
+          "A) De un dios de la lluvia",
+          "B) De un hombre recostado",
+          "C) De un animal sagrado",
+          "D) De una figura abstracta"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se cree que se colocaba en el cuenco del Chac mool según la primera teoría?",
+        "opciones": [
+          "A) Sangre de sacrificios",
+          "B) Ofrendas a los dioses",
+          "C) Objetos de guerra",
+          "D) Alimentos para los guerreros"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué representa la sangre de los hombres en la creencia de los pueblos indígenas antes de la Conquista?",
+        "opciones": [
+          "A) La unión de las tribus",
+          "B) El ciclo de la naturaleza",
+          "C) La fertilidad de la tierra",
+          "D) La fuerza en la guerra"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es la tercera teoría sobre el Chac mool mencionada en la lectura?",
+        "opciones": [
+          "A) Era una figura decorativa",
+          "B) Era un dios de la guerra",
+          "C) Era una piedra de sacrificios",
+          "D) Era un símbolo de paz"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Quién descubrió el primer Chac mool en Tacubaya?",
+        "opciones": [
+          "A) Tláloc",
+          "B) Augustus Le Plongeon",
+          "C) Un grupo de indígenas",
+          "D) Exploradores españoles"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué significado tiene la palabra 'Chac mool' en maya?",
+        "opciones": [
+          "A) Dios de la lluvia",
+          "B) Garra roja",
+          "C) Corazón sagrado",
+          "D) Ofensa a los dioses"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Una fiesta de nombre raro",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es el carnaval según el texto?",
+        "opciones": [
+          "A) Una celebración religiosa.",
+          "B) Una fiesta de tradición europea que se transformó en varias regiones.",
+          "C) Un festival que solo se celebra en México.",
+          "D) Una tradición que se lleva a cabo solo en primavera."
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué época del año se celebra el carnaval?",
+        "opciones": [
+          "A) Durante el invierno.",
+          "B) Entre enero y febrero.",
+          "C) Entre febrero y marzo.",
+          "D) En el mes de diciembre."
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué significado tiene la palabra 'carnaval' según el texto?",
+        "opciones": [
+          "A) Fiesta de primavera.",
+          "B) Quitarse la carne.",
+          "C) Celebración de invierno.",
+          "D) Día de disfraces."
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es una de las características del carnaval en la actualidad?",
+        "opciones": [
+          "A) La ausencia de música.",
+          "B) El uso de disfraces y máscaras.",
+          "C) La celebración solo en interiores.",
+          "D) La comida tradicional como plato principal."
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué sucede durante el carnaval en las calles o plazas?",
+        "opciones": [
+          "A) La gente se queda en casa.",
+          "B) Se realizan desfiles y bailes con disfraces.",
+          "C) Se celebra en silencio.",
+          "D) Solo se sirve comida."
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué representa el carnaval en relación con el ciclo de la naturaleza?",
+        "opciones": [
+          "A) El inicio del invierno.",
+          "B) El final de un ciclo y el inicio de otro.",
+          "C) La llegada de la lluvia.",
+          "D) La cosecha de cultivos."
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Detectives Geniales S.A.",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la prueba final que debe superar el aspirante a detective?",
+        "opciones": [
+          "A) Interrogar a un sospechoso",
+          "B) Hacer un examen escrito",
+          "C) Resolver un caso",
+          "D) Realizar defensa personal"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué se considera como una señal de que alguien podría estar mintiendo?",
+        "opciones": [
+          "A) Mantener contacto visual",
+          "B) Mover mucho los ojos",
+          "C) Hablar de manera pausada",
+          "D) Sonreír frecuentemente"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "Según el texto, ¿qué es más fácil de hacer, mentir con las palabras o con el cuerpo?",
+        "opciones": [
+          "A) Mentir con las palabras",
+          "B) Mentir con el cuerpo",
+          "C) No se menciona",
+          "D) Ambos son igual de fáciles"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué detalles del cuerpo se mencionan como pistas que pueden indicar que alguien está mintiendo?",
+        "opciones": [
+          "A) Gestos de la cara y postura",
+          "B) Solo la mirada",
+          "C) Tono de voz",
+          "D) Movimientos de pies"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué le sucedió a un agente durante la prueba de camuflaje?",
+        "opciones": [
+          "A) Fue despedido",
+          "B) Se perdió en la búsqueda",
+          "C) Le tiraron los dientes",
+          "D) Fue ascendido"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué consejo se le da al aspirante sobre la confianza en las palabras de alguien?",
+        "opciones": [
+          "A) Siempre se debe confiar en ellas",
+          "B) A veces no se pueden confiar",
+          "C) Solo se pueden confiar en situaciones formales",
+          "D) Las palabras son más importantes que el cuerpo"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "El Chepe: de la sierra al mar",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año surgió la idea de construir un ferrocarril que conectara México con Estados Unidos?",
+        "opciones": [
+          "A) 1897",
+          "B) 1910",
+          "C) 1863",
+          "D) 1955"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuál es la duración aproximada del recorrido del Chepe tradicional desde Chihuahua hasta Los Mochis?",
+        "opciones": [
+          "A) 9 horas",
+          "B) 16 horas",
+          "C) 12 horas",
+          "D) 24 horas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tren es meramente turístico y realiza el recorrido en menos tiempo que el Chepe tradicional?",
+        "opciones": [
+          "A) Chepe Regional",
+          "B) Chepe Express",
+          "C) Chepe de Carga",
+          "D) Chepe de Lujo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se puede hacer en la estación Creel según el texto?",
+        "opciones": [
+          "A) Practicar snowboard",
+          "B) Visitar un museo de arte",
+          "C) Hacer surf",
+          "D) Escalar montañas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es uno de los principales atractivos en Los Mochis, la última estación del Chepe?",
+        "opciones": [
+          "A) La mejor pizza de México",
+          "B) Los mejores camarones de México",
+          "C) La mayor cantidad de viñedos",
+          "D) El teleférico más grande del mundo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo se recomienda reservar con anticipación para viajar en el Chepe Express durante vacaciones?",
+        "opciones": [
+          "A) 3 meses",
+          "B) 1 mes",
+          "C) 6 meses",
+          "D) 2 semanas"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Códices o libros de pinturas",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué son los códices?",
+        "opciones": [
+          "A) Libros de texto",
+          "B) Manuscritos pictóricos",
+          "C) Documentos legales",
+          "D) Obras de teatro"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quiénes eran los creadores de los códices?",
+        "opciones": [
+          "A) Historiadores",
+          "B) Tlacuilos",
+          "C) Gobernantes",
+          "D) Sacerdotes"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué materiales se usaban para elaborar los códices?",
+        "opciones": [
+          "A) Papel reciclado",
+          "B) Papel europeo",
+          "C) Papel hecho de fibras vegetales y piel de venado",
+          "D) Solo papel de árbol amate"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes colores no se menciona en la lectura como utilizado en los códices?",
+        "opciones": [
+          "A) Verde",
+          "B) Naranja",
+          "C) Rosa",
+          "D) Morado"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué forma puede tener un códice?",
+        "opciones": [
+          "A) Solo rollo",
+          "B) Solo hoja",
+          "C) Tira, biombo, rollo, lienzo y hoja",
+          "D) Solo biombo y hoja"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tipo de eventos se documentaban en los códices?",
+        "opciones": [
+          "A) Solo eventos religiosos",
+          "B) Sucesos de peregrinaciones, conquistas y guerras",
+          "C) Solo festividades",
+          "D) Exclusivamente genealogías de gobernantes"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Buscando marcianos",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué han enviado algunos gobiernos a Marte?",
+        "opciones": [
+          "A) Humanos",
+          "B) Robots",
+          "C) Animales",
+          "D) Naves espaciales"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se describe al marciano en el poema?",
+        "opciones": [
+          "A) Alto y fuerte",
+          "B) Enano y con seis piernas",
+          "C) Verde y sin brazos",
+          "D) Rápido y inteligente"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué color se menciona que NO recuerda el marciano tener?",
+        "opciones": [
+          "A) Azul",
+          "B) Verde",
+          "C) Rojo",
+          "D) Amarillo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántas orejas tiene el marciano según el poema?",
+        "opciones": [
+          "A) Tres",
+          "B) Cuatro",
+          "C) Cinco",
+          "D) Seis"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué actividad se sugiere al final del poema?",
+        "opciones": [
+          "A) Dibujar un marciano",
+          "B) Cantar una canción",
+          "C) Hacer un experimento",
+          "D) Jugar con otros niños"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cómo se siente el marciano al ver a un niño humano?",
+        "opciones": [
+          "A) Tranquilo",
+          "B) Enfadado",
+          "C) Estresado",
+          "D) Feliz"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Lunar",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es un lunar?",
+        "opciones": [
+          "A) Una estrella",
+          "B) Una mancha en la piel",
+          "C) Un tipo de planeta",
+          "D) Un satélite natural"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Dónde se pueden encontrar los lunares?",
+        "opciones": [
+          "A) Solo en la cara",
+          "B) En cualquier parte de la piel",
+          "C) Solo en las manos",
+          "D) En los ojos"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Los antiguos romanos y sus números",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué sistema de numeración desarrollaron los antiguos romanos?",
+        "opciones": [
+          "A) Sistema indoarábigo",
+          "B) Sistema binario",
+          "C) Sistema de numeración romana",
+          "D) Sistema decimal"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuántas letras utilizaban los romanos para escribir sus números?",
+        "opciones": [
+          "A) Cinco",
+          "B) Seis",
+          "C) Siete",
+          "D) Ocho"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuál es el número romano que representa el siglo 21?",
+        "opciones": [
+          "A) XXI",
+          "B) XX",
+          "C) X",
+          "D) IX"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué significa anteponer una letra a otra en el sistema de numeración romana?",
+        "opciones": [
+          "A) Sumar los valores",
+          "B) Restar los valores",
+          "C) Multiplicar",
+          "D) Dividir"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el número más grande que se puede escribir usando solo letras romanas?",
+        "opciones": [
+          "A) 3000",
+          "B) 3999",
+          "C) 4000",
+          "D) 5000"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se indica un valor multiplicado por mil en el sistema de numeración romana?",
+        "opciones": [
+          "A) Con una raya vertical",
+          "B) Con un círculo",
+          "C) Con una raya horizontal",
+          "D) Con un punto"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Fronteras",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué representan las fronteras en los mapas?",
+        "opciones": [
+          "A) Líneas físicas",
+          "B) Líneas imaginarias",
+          "C) Líneas de comunicación",
+          "D) Líneas de tiempo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es un ejemplo de frontera natural mencionada en el texto?",
+        "opciones": [
+          "A) Un letrero",
+          "B) Una muralla",
+          "C) Un río",
+          "D) Una reja"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué frontera es mencionada como la más famosa de México?",
+        "opciones": [
+          "A) La de Canadá y Estados Unidos",
+          "B) La de México y Guatemala",
+          "C) La de Tijuana",
+          "D) La de Noruega y Suecia"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tipo de fronteras pueden ser marcadas con letreros?",
+        "opciones": [
+          "A) Fronteras naturales",
+          "B) Fronteras imaginarias",
+          "C) Fronteras físicas",
+          "D) Fronteras políticas"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué función pueden tener los ríos en las fronteras?",
+        "opciones": [
+          "A) Marcar la división de los países",
+          "B) Ser un medio de transporte",
+          "C) Funcionar como barrera",
+          "D) Ser un lugar turístico"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué se menciona sobre las fronteras en relación a su naturaleza?",
+        "opciones": [
+          "A) Todas son fáciles de cruzar",
+          "B) Algunas unen, otras separan",
+          "C) Son todas iguales",
+          "D) No tienen importancia"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La primera mensajería aérea",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la velocidad promedio a la que puede volar una paloma mensajera?",
+        "opciones": [
+          "A) 70 km/h",
+          "B) 80 km/h",
+          "C) 90 km/h",
+          "D) 100 km/h"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué son los colombófilos?",
+        "opciones": [
+          "A) Personas que crían caballos",
+          "B) Personas que entrenan palomas mensajeras",
+          "C) Personas que envían mensajes por internet",
+          "D) Personas que estudian aves en general"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo se entrena a una paloma mensajera para que regrese a su nido?",
+        "opciones": [
+          "A) Se les alimenta cada vez que regresan",
+          "B) Se les suelta a largas distancias desde el principio",
+          "C) Se les suelta a distancias cortas y se aumenta gradualmente",
+          "D) Se les enseña a seguir un camino específico"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué famosa paloma mensajera ayudó en la Primera Guerra Mundial?",
+        "opciones": [
+          "A) Cher Ami",
+          "B) Columba",
+          "C) Mensajera",
+          "D) Paloma de la Paz"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué se utilizaba para enviar mensajes con las palomas mensajeras?",
+        "opciones": [
+          "A) Un teléfono",
+          "B) Un papel atado a la pata",
+          "C) Un dispositivo electrónico",
+          "D) Una carta en una bolsa"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se sabe sobre cómo las palomas mensajeras se orientan para regresar a su nido?",
+        "opciones": [
+          "A) Usan un mapa",
+          "B) Usan su inteligencia y sentidos",
+          "C) Son guiadas por otros animales",
+          "D) No necesitan orientarse"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Multiplicación con líneas y puntos",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué método se describe para realizar multiplicaciones?",
+        "opciones": [
+          "A) Multiplicación tradicional",
+          "B) Multiplicación con líneas y puntos",
+          "C) Multiplicación con ábaco",
+          "D) Multiplicación con calculadora"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el resultado de multiplicar 32 por 48 usando el método descrito?",
+        "opciones": [
+          "A) 1536",
+          "B) 1280",
+          "C) 1440",
+          "D) 1600"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuántas líneas se dibujan para representar el número 32?",
+        "opciones": [
+          "A) 5",
+          "B) 3",
+          "C) 2",
+          "D) 4"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se hace con los puntos de intersección según la lectura?",
+        "opciones": [
+          "A) Se cuentan para obtener el resultado",
+          "B) Se eliminan",
+          "C) Se dibujan más líneas",
+          "D) Se suman a otros números"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué se utiliza para representar el número 48 en el método de líneas y puntos?",
+        "opciones": [
+          "A) 4 líneas horizontales y 8 líneas verticales",
+          "B) 4 líneas verticales y 8 líneas horizontales",
+          "C) 8 líneas verticales y 4 líneas horizontales",
+          "D) 8 líneas y 4 puntos"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se anota después de contar los puntos del grupo de las decenas?",
+        "opciones": [
+          "A) 6",
+          "B) 33",
+          "C) 3",
+          "D) 12"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "¡Vámonos de paseo a San Cristóbal!",
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año fue fundada la ciudad de San Cristóbal de las Casas?",
+        "opciones": [
+          "A) 1500",
+          "B) 1528",
+          "C) 1600",
+          "D) 1800"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del santo patrón de los viajeros al que está consagrada la Catedral de San Cristóbal Mártir?",
+        "opciones": [
+          "A) San Juan",
+          "B) San Pedro",
+          "C) San Cristóbal",
+          "D) San Pablo"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tipo de espacio es el Centro de Textiles del Mundo Maya?",
+        "opciones": [
+          "A) Un museo de historia",
+          "B) Un centro de exhibición de tejidos",
+          "C) Un mercado de artesanías",
+          "D) Una galería de arte contemporáneo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué grupos étnicos tienen mayor presencia en San Cristóbal de las Casas?",
+        "opciones": [
+          "A) Los zapotecas y mixtecas",
+          "B) Los tsotsiles y tseltales",
+          "C) Los mayas y purepechas",
+          "D) Los tlaxcaltecas y mexicas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Desde qué año San Cristóbal de las Casas ha sido nombrado Pueblo Mágico?",
+        "opciones": [
+          "A) 2000",
+          "B) 2001",
+          "C) 2003",
+          "D) 2005"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes es un festival mencionado en la lectura que se celebra en San Cristóbal?",
+        "opciones": [
+          "A) Festival Internacional de Cine",
+          "B) Festival Barroco Internacional Cervantes",
+          "C) Festival de la Música Mexicana",
+          "D) Festival de la Luz y el Sonido"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La magia del actor y del teatro",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué habilidad es esencial para un actor además de la memoria?",
+        "opciones": [
+          "A) Estudiar historia",
+          "B) Controlar las emociones",
+          "C) Aprender idiomas",
+          "D) Escribir guiones"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién acuñó el concepto de encarnar un personaje?",
+        "opciones": [
+          "A) Konstantín Stanislavski",
+          "B) William Shakespeare",
+          "C) Anton Chéjov",
+          "D) Bertolt Brecht"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Cuál es una de las funciones del vestuarista en el teatro?",
+        "opciones": [
+          "A) Diseñar escenografía",
+          "B) Conseguir o diseñar ropa",
+          "C) Manejar la iluminación",
+          "D) Componer música"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué elemento ayuda a crear la atmósfera emocional de una escena?",
+        "opciones": [
+          "A) La escenografía",
+          "B) Los efectos especiales",
+          "C) La iluminación",
+          "D) El vestuario"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Por qué es importante el maquillaje en la actuación?",
+        "opciones": [
+          "A) Para ocultar imperfecciones",
+          "B) Para caracterizar el rostro y el cuerpo",
+          "C) Para hacer que los actores se vean más jóvenes",
+          "D) Para resaltar la vestimenta"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se necesita para que un actor pueda concentrarse en su papel?",
+        "opciones": [
+          "A) Un buen guion",
+          "B) Estar cómodo con su apariencia",
+          "C) Un público atento",
+          "D) Un ensayo previo"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "París",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuántas sílabas conforman un haikú?",
+        "opciones": [
+          "A) 15",
+          "B) 17",
+          "C) 19",
+          "D) 21"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién fue el autor mexicano que popularizó los haikús a comienzos del siglo XX?",
+        "opciones": [
+          "A) Octavio Paz",
+          "B) José Juan Tablada",
+          "C) Alfonso Reyes",
+          "D) Amado Nervo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué aspecto de la cultura japonesa influenció a Tablada en sus poemas?",
+        "opciones": [
+          "A) La gastronomía",
+          "B) La meditación y el respeto hacia la naturaleza",
+          "C) La arquitectura",
+          "D) La música tradicional"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué año publicó Tablada su libro de 'poemas sintéticos'?",
+        "opciones": [
+          "A) 1915",
+          "B) 1919",
+          "C) 1921",
+          "D) 1925"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "Según la lectura, ¿qué tipo de temas plasmó Tablada en sus poemas?",
+        "opciones": [
+          "A) Temas urbanos",
+          "B) Temas de guerra",
+          "C) Temas de la naturaleza",
+          "D) Temas históricos"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué consejo se da al final de la lectura para crear haikús?",
+        "opciones": [
+          "A) Usar solo palabras en inglés",
+          "B) Enlistar aspectos de la naturaleza que te gusten",
+          "C) Escribir sobre experiencias personales",
+          "D) Seguir un formato rígido"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "La voz de Mare",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué historia le contó el abuelito a Xareni?",
+        "opciones": [
+          "A) La historia de un dragón",
+          "B) La historia de unos gigantes llamados uemas",
+          "C) La historia de un tesoro escondido",
+          "D) La historia de un viaje al espacio"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué le sucedió a la sonrisa de Xareni?",
+        "opciones": [
+          "A) Se volvió más brillante",
+          "B) Se esfumó como los uemas",
+          "C) Se convirtió en una risa",
+          "D) Nunca cambió"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué decidió hacer Xareni cuando se enfrentó a la sombra?",
+        "opciones": [
+          "A) Huir",
+          "B) Pelear",
+          "C) Ignorarla",
+          "D) Llamar a su mamá"
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "pregunta": "¿Qué hizo la uema cuando encontró a Xareni?",
+        "opciones": [
+          "A) La asustó",
+          "B) La ayudó a regresar a casa",
+          "C) La hizo reír",
+          "D) La ignoró"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué le recomendó la uema a Xareni para alejar la sombra?",
+        "opciones": [
+          "A) Gritar muy fuerte",
+          "B) Elegir a un adulto en quien confiar y contarle lo que sucedía",
+          "C) Escribir un cuento",
+          "D) Hacer un hechizo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué pasó al amanecer después de que Xareni siguió el consejo de la uema?",
+        "opciones": [
+          "A) La sombra regresó",
+          "B) La uema se fue",
+          "C) Xareni volvió a sonreír y su cuarto recuperó su fortaleza",
+          "D) Xareni se sintió más sola"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "Xilitla, un jardín mágico",
+    "preguntas": [
+      {
+        "pregunta": "¿Quién es el creador del Jardín Escultórico en Xilitla?",
+        "opciones": [
+          "A) Salvador Dalí",
+          "B) Edward James",
+          "C) Remedios Varo",
+          "D) Leonora Carrington"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué estado de México se encuentra el Jardín Escultórico de Edward James?",
+        "opciones": [
+          "A) Jalisco",
+          "B) San Luis Potosí",
+          "C) Veracruz",
+          "D) Puebla"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué características tiene Xilitla que atrajeron a Edward James?",
+        "opciones": [
+          "A) Clima frío y desierto",
+          "B) Hermosas cascadas y exuberante vegetación",
+          "C) Montañas nevadas",
+          "D) Playas tropicales"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de estructuras construyó Edward James en su jardín?",
+        "opciones": [
+          "A) Edificios de oficinas",
+          "B) Esculturas de concreto con formas de plantas y animales",
+          "C) Puentes colgantes",
+          "D) Casas de madera"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué experiencia buscaba Edward James ofrecer a los visitantes de su jardín?",
+        "opciones": [
+          "A) Una experiencia gastronómica",
+          "B) Una experiencia mágica entre lo real y lo imaginario",
+          "C) Una experiencia deportiva",
+          "D) Una experiencia comercial"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué motivó a Edward James a quedarse en Xilitla?",
+        "opciones": [
+          "A) La herencia de sus padres",
+          "B) Su interés por el arte y la naturaleza",
+          "C) Un proyecto de construcción de casas",
+          "D) Su deseo de ser famoso"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "El número más famoso del mundo",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué número se representa con la letra griega π?",
+        "opciones": [
+          "A) Euler",
+          "B) Pi",
+          "C) Phi",
+          "D) Omega"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Quién estableció que el valor de π estaba entre 3.1408 y 3.1429?",
+        "opciones": [
+          "A) Euclides",
+          "B) Newton",
+          "C) Arquímedes",
+          "D) Pitágoras"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué característica tiene el número π?",
+        "opciones": [
+          "A) Es un número entero",
+          "B) Es periódico",
+          "C) Es irracional",
+          "D) Es un número primo"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué se ha logrado gracias a las computadoras en relación con π?",
+        "opciones": [
+          "A) Encontrar su raíz cuadrada",
+          "B) Conocer miles de millones de cifras decimales",
+          "C) Demostrar su periodicidad",
+          "D) Calcular su valor exacto"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuánto cabe el diámetro de cualquier círculo en su perímetro?",
+        "opciones": [
+          "A) 2 veces",
+          "B) 3 veces",
+          "C) 4 veces",
+          "D) 5 veces"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se buscaba calcular en relación con el número π?",
+        "opciones": [
+          "A) Su raíz cúbica",
+          "B) La longitud de un círculo",
+          "C) El diámetro en relación al perímetro",
+          "D) Su representación gráfica"
+        ],
+        "respuesta_correcta": "C"
+      }
+    ]
+  },
+  {
+    "lectura": "El origen del arcoíris",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué le preocupaba al hombre en la historia?",
+        "opciones": [
+          "A) Su soledad",
+          "B) Su desnudez",
+          "C) Su pobreza",
+          "D) Su salud"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué le ofreció el relámpago al hombre?",
+        "opciones": [
+          "A) Una casa",
+          "B) Siete colores",
+          "C) Comida",
+          "D) Un amigo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué simboliza el arcoíris según la historia?",
+        "opciones": [
+          "A) La llegada de la lluvia",
+          "B) La llegada del Sol",
+          "C) La tristeza",
+          "D) La soledad"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cómo reaccionó la gente ante el nuevo aspecto del hombre?",
+        "opciones": [
+          "A) Lo ignoraron",
+          "B) Lo miraron con asombro",
+          "C) Se rieron de él",
+          "D) Se asustaron"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿De qué cultura es la historia del origen del arcoíris?",
+        "opciones": [
+          "A) Mexica",
+          "B) Mazateca",
+          "C) Zapoteca",
+          "D) Purépecha"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué evento natural precede la aparición del arcoíris?",
+        "opciones": [
+          "A) Un terremoto",
+          "B) Una tormenta",
+          "C) Una sequía",
+          "D) Un eclipse"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Eclipses",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es un eclipse solar?",
+        "opciones": [
+          "A) Cuando la Tierra se interpone entre el Sol y la Luna",
+          "B) Cuando la Luna cubre la luz del Sol",
+          "C) Cuando la sombra de la Tierra cubre la Luna",
+          "D) Cuando el Sol cubre la sombra de la Tierra"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué ocurre durante un eclipse lunar?",
+        "opciones": [
+          "A) La Luna cubre al Sol completamente",
+          "B) La Tierra se interpone entre el Sol y la Luna",
+          "C) La sombra del Sol cubre la Tierra",
+          "D) La Luna se aleja del Sol"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál es el efecto visual de un eclipse lunar total?",
+        "opciones": [
+          "A) La Luna se oscurece completamente",
+          "B) La Luna se torna color rojizo",
+          "C) La Luna desaparece por completo",
+          "D) La Tierra se oscurece por completo"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué tipo de eclipse solar permite ver un anillo de luz alrededor de la Luna?",
+        "opciones": [
+          "A) Total",
+          "B) Parcial",
+          "C) Anular",
+          "D) Penumbral"
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "pregunta": "¿Qué tecnología se utiliza actualmente para predecir eclipses?",
+        "opciones": [
+          "A) Observación manual de los eclipses",
+          "B) Cálculo de las posiciones exactas de las sombras",
+          "C) Cálculo de las fases de la Luna",
+          "D) Observación de las estrellas"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Por qué no pueden ocurrir eclipses en Mercurio y Venus?",
+        "opciones": [
+          "A) Porque son demasiado pequeños",
+          "B) Porque no tienen satélites naturales",
+          "C) Porque están muy lejos del Sol",
+          "D) Porque sus órbitas son inestables"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Actúo en favor de la justicia y la democracia",
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es el tema principal de la lectura?",
+        "opciones": [
+          "A) La imparcialidad",
+          "B) La justicia y la democracia",
+          "C) La actuación en favor de los derechos",
+          "D) La historia de la justicia"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué acción se menciona en la lectura?",
+        "opciones": [
+          "A) Actuar en contra de la injusticia",
+          "B) Actuar en favor de la justicia y la democracia",
+          "C) Promover la imparcialidad",
+          "D) Ignorar los problemas sociales"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Calakmul y la máscara funeraria",
+    "preguntas": [
+      {
+        "pregunta": "¿Dónde se encuentra ubicada Calakmul?",
+        "opciones": [
+          "A) Al noreste de Campeche",
+          "B) Al suroeste de Campeche",
+          "C) En el centro de México",
+          "D) En el norte de Guatemala"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué material se considera esencial en las máscaras funerarias de los soberanos mayas?",
+        "opciones": [
+          "A) Oro",
+          "B) Jade",
+          "C) Plata",
+          "D) Obsidiana"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿En qué año se iniciaron las excavaciones en Calakmul?",
+        "opciones": [
+          "A) 1931",
+          "B) 1982",
+          "C) 250",
+          "D) 900"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se ha encontrado en Calakmul que narra la historia de sus gobernantes?",
+        "opciones": [
+          "A) Máscaras funerarias",
+          "B) Estelas",
+          "C) Templos",
+          "D) Pinturas rupestres"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué representa la máscara en el contexto del ajuar funerario?",
+        "opciones": [
+          "A) El rostro del rey",
+          "B) El rostro del dios del maíz",
+          "C) La identidad del gobernante",
+          "D) Un símbolo de guerra"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuántas teselas de jade se utilizaron en la reconstrucción de la máscara de Calakmul?",
+        "opciones": [
+          "A) 50",
+          "B) 57",
+          "C) 60",
+          "D) 75"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  },
+  {
+    "lectura": "Monedas",
+    "preguntas": [
+      {
+        "pregunta": "¿Qué mercancías se usaban como medio de intercambio antes de la llegada de los europeos?",
+        "opciones": [
+          "A) Solo oro y plata",
+          "B) Mantás de algodón, pieles de animales y cacao",
+          "C) Solo piedras preciosas",
+          "D) Solo granos de cacao"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Cuál fue una de las principales acciones de los españoles en relación con las monedas?",
+        "opciones": [
+          "A) Prohibir el uso de monedas indígenas",
+          "B) Traer monedas de Europa e imitar su fabricación",
+          "C) Crear una nueva moneda de papel",
+          "D) Destruir todas las monedas existentes"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué se creó para facilitar el comercio y la elaboración de piezas monetarias en México?",
+        "opciones": [
+          "A) Un banco central",
+          "B) Una Casa de Moneda",
+          "C) Un mercado agrícola",
+          "D) Un sistema de trueque"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué característica tienen las monedas actuales de México en su diseño?",
+        "opciones": [
+          "A) Son todas de oro",
+          "B) Muestran aspectos de la historia y cultura de México",
+          "C) No tienen ningún diseño distintivo",
+          "D) Solo tienen el valor nominal"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué elemento se encuentra en la parte trasera de todas las monedas mexicanas actuales?",
+        "opciones": [
+          "A) La imagen de un presidente",
+          "B) El escudo nacional y el nombre oficial del país",
+          "C) Un símbolo religioso",
+          "D) La fecha de fabricación"
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "pregunta": "¿Qué figura se forma al unir los aros de las monedas de 1, 2, 5 y 10 pesos?",
+        "opciones": [
+          "A) Un mapa de México",
+          "B) Un rompecabezas del Calendario Azteca",
+          "C) Un retrato de un héroe nacional",
+          "D) Un símbolo de la paz"
+        ],
+        "respuesta_correcta": "B"
+      }
+    ]
+  }
+]

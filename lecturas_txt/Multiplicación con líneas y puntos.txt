@@ -1,0 +1,54 @@
+216
+MULLIPLICACIÓN
+III Língas y
+PUNEOS
+¿Sabías que hay una forma de multiplicar
+que utiliza líneas y puntos, y en donde no es
+necesario saberse las tablas de memoria?
+A este método, algunos lo llaman la multiplicación japonesa,
+otros dicen que es china y otros más que es maya. Aunque no se sabe
+bien a bien su origen, resulta tan original que se ha difundido como una
+curiosidad matemática. Veamos de qué se trata.
+Multipliquemos los números 32 por 48.
+Para representar al 32, primero
+dibujamos 3 líneas paralelas para
+representar al 3 y luego, a la derecha de
+ellas y con cierta distancia, 2 líneas
+paralelas para representar al 2.
+Para representar al 48, primero
+dibujamos en la parte superior 4 líneas
+perpendiculares a las rojas y luego,
+más abajo y con cierta distancia,
+8 líneas para representar al 8.
+
+217
+Marcamos todos los puntos donde las rectas
+se intersecan. Ahora, contamos los
+puntos de intersección empezando
+por abajo a la derecha que serán las unidades
+de nuestro resultado.
+De los 16 puntos que hay, marcamos el 6 de
+las unidades y nos llevamos la decena, como 1
+6
+punto, para el siguiente conjunto de puntos que
+contaremos. El otro conjunto está formado por los
+puntos de dos esquinas: la superior derecha y la
+inferior izquierda, y corresponde a las decenas
+de nuestro resultado. En total estos dos conjuntos
+3
+tienen 32 puntos; si sumamos el punto del grupo
+anterior, son 33 puntos. Anotamos el 3 y nos
+6
+llevamos el otro 3 al último grupo que vamos
+a contar. Finalmente, contamos los puntos del
+conjunto de arriba a la izquierda, que corresponde
+a las centenas. Son 12 puntos, más los 3 puntos
+del conjunto anterior, dan 15.
+3
+Para formar el resultado de la
+15
+multiplicación, escribimos los números
+6
+que obtuvimos, empezando por las
+centenas, luego las decenas y al final las
+unidades. Así, el resultado es 1536.

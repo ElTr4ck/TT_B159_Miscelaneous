@@ -1,0 +1,84 @@
+96
+La sucesión de
+Fibonacci en
+la naturaleza
+Hace más de 800 años, el matemático Leonardo de Pisa, mejor
+conocido como Fibonacci porque era hijo de Bonacci, tuvo
+una gran idea e inventó una sucesión de números que se ha usado de
+diversas maneras en la vida cotidiana a lo largo del tiempo.
+Esta sucesión empieza con dos números 1:
+1,1,
+Para obtener el tercer número de la sucesión, se suman
+los dos números anteriores. Así se obtiene el 2:
+1,1,2,
+Luego se vuelven a sumar los dos números
+anteriores para obtener el siguiente, el 3:
+1,1,2,3,
+Y se repite este procedimiento cada vez:
+sumar los dos números anteriores para obtener el que sigue.
+1,1,2,3,5,8,13,21,.
+¿Puedes encontrar los siguientes 2
+números de la sucesión de Fibonacci?
+
+97
+Pero... ¿qué
+relación tiene esta
+sucesión con la
+naturaleza?
+Si observamos el centro de las
+margaritas o de los girasoles,
+donde se agrupan las
+semillas, encontraremos un
+patrón impresionante.
+Las semillas de un girasol seco
+y maduro forman un curioso
+patrón de espirales
+acomodadas una al lado de la
+otra, y crean a su vez dos familias
+bastante claras.
+Una cuyas espirales giran en favor de las manecillas del reloj, y la
+otra en dirección contraria. El número de espirales en cada familia
+es un número de Fibonacci, e incluso las dos familias tienen
+números de Fibonacci continuos.
+
+98
+Por ejemplo, un girasol puede tener 34
+espirales en una dirección y 55 en la otra.
+Observa que en la imagen se puede ver
+55
+50
+Γ
+que hay 55 espirales que giran en el
+5
+sentido de las manecillas del reloj.
+45
+10
+40
+15
+35
+20
+30
+25
+Identifica las que
+van en sentido contrario a
+las manecillas del reloj y
+cuéntalas. ¿Son 34?
+El mundo de las flores tiene una marcada preferencia por
+los números de la sucesión de Fibonacci. Muchas flores tienen
+3,5,8,13.21 pétalos.
+
+¡Descubre
+cuántos hay en
+la próxima flor
+que encuentres
+a tu paso!
+
+100
+Agua pasa
+por mi casa,
+cate de mi
+corazon.
+El que no me
+lo adivine
+es un burro
+cabezon.

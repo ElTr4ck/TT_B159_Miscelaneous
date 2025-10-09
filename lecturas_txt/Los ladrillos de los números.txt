@@ -1,0 +1,92 @@
+74
+Los ladrillos
+de los números
+Cualquier número natural se puede expresar como la
+multiplicación de dos o más números naturales. Por
+ejemplo, el 4, como 4x1o2x2; y el 24, como 8x3,6x40
+2x2x2x3. Pero, ¿qué sucede con el 2, el 3 o el 17? Estos
+números sólo se pueden escribir como producto de
+dos números de UNA sola manera: ¡el número dado por 1!
+2 = 2 x 1
+3=3x1
+17 = 17 x 1
+Estos números tan particulares
+e interesantes se conocen como
+números primos. Son los
+ladrillos con los que, a través
+de la multiplicación. se puede
+"construir" cualquier número.
+Los números primos han fascinado
+a los matemáticos de todos los tiempos.
+Están presentes en la búsqueda de
+múltiplos y divisores y. por supuesto,
+de un común denominador para
+sumar y restar fracciones.
+Hombres y mujeres han dedicado su vida
+a estudiarlos. En la actualidad, se utilizan
+números primos muy grandes para el cifrado
+electrónico en bancos y comercios, pues, para
+hallarlos, las computadoras tienen que probar
+con todos los números primos anteriores.
+
+75
+Por otro lado, los números primos pequeños
+han inspirado a personas como Brent Yorgey,
+quien creó los siguientes diagramas para
+representar los números naturales.
+¡Cuántos puntitos!
+¿Podrías adivinar qué diagrama
+corresponde al número 4?
+¿Y al número 13?
+
+76
+Cada diagrama muestra los ladrillos con los que está
+formado cada uno de los números del 1 al 49. Ahora
+verás cómo están construidos algunos de ellos.
+El diagrama del 2 consta
+La representación del 3
+de 2 puntos. Cualquier otro
+tiene una forma triangular
+que contenga este ladrillo
+compuesta por 3 puntos.
+representa un número que es
+Cualquier diagrama que
+el resultado de multiplicar el
+contenga este ladrillo
+2 por uno o más números.
+representa un número que
+es resultado de multiplicar el
+3 por uno o más números.
+El diagrama del 5 tiene forma
+pentagonal y está hecho de 5
+Este diagrama corresponde
+puntos. Cualquier diagrama que
+al 6 porque tiene 6 puntos.
+contenga este ladrillo representa
+Observa que tiene forma
+un número resultado de multiplicar
+triangular, pues incluye el
+el 5 por uno o más números.
+ladrillo del 3 y. además, ¡tiene
+tres ladrillos del 2! Así, el
+diagrama muestra que 3 x 2 = 6.
+Este diagrama corresponde al
+9 porque tiene tal número de
+Este diagrama corresponde al
+puntos. Observa que tiene forma
+15 y su forma es pentagonal.
+triangular y está formado por
+Puedes ver que tiene
+tres ladrillo del 3. Por tanto, el
+cinco ladrillo del 3: esto
+diagrama muestra que 3 X 3 = 9.
+significa que 5 X 3 = 15.
+
+77
+¡Ahora descifra los siguientes diagramas!
+¿Qué ladrillos tienen?
+¿A qué números corresponden?
+¿Cómo los puedes escribir para indicar que
+son la multiplicación de números primos?
+¿Encuentras alguna relación entre los
+números cuya representación es circular?
