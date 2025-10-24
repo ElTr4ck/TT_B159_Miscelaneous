@@ -1,0 +1,168 @@
+{
+  "basico": [
+    {
+      "afirmacion": "Alejandra se da cuenta de que está perdida en un cementerio.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Una flor de cempasúchil guía a Alejandra de vuelta con su familia.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Alejandra roba pan de muerto de una tumba.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Alejandra dibuja retratos con flores.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Las arañas viven en todos los continentes menos en la Antártida.",
+      "respuesta": true,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "La araña Bagheera kiplingi es vegetariana.",
+      "respuesta": true,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "Las arañas tienen 6 ojos.",
+      "respuesta": false,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "Las telarañas son utilizadas principalmente para atrapar presas.",
+      "respuesta": true,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "Los amoxcalli eran casas de los libros.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "Los tlacuilos eran personas que escribían códices.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "Los códices se escribían solo en papel.",
+      "respuesta": false,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "El nombre amoxcalli significa 'casa de los libros'.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "Leonardo da Vinci nació en 1452.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    },
+    {
+      "afirmacion": "Da Vinci vivió en Italia.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    },
+    {
+      "afirmacion": "La Gioconda es un retrato pintado por Leonardo da Vinci.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    },
+    {
+      "afirmacion": "Leonardo da Vinci fue un inventor y pintor.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    }
+  ],
+  "intermedio": [
+    {
+      "afirmacion": "Alejandra se siente feliz al ver a sus amigas en el cementerio.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "La lápida con el nombre de Alejandra bloquea la salida del cementerio.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Las arañas pueden vivir en cuevas heladas o volcanes, lo que sugiere que son muy adaptables.",
+      "respuesta": true,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "La seda que producen las arañas se utiliza solo para hacer telarañas.",
+      "respuesta": false,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "Los tlacuilos eran considerados los bibliotecarios del mundo prehispánico.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "Fray Bernardino de Sahagún ayudó a conservar los códices después de la llegada de los europeos.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "Los dibujos de Leonardo fueron útiles para la medicina antes de que existieran las radiografías.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    },
+    {
+      "afirmacion": "Leonardo da Vinci fue considerado un mejor pintor que su maestro Andrea del Verrocchio.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    }
+  ],
+  "avanzado": [
+    {
+      "afirmacion": "La historia sugiere que Alejandra tiene una conexión especial con el cementerio.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "La calavera vestida de reina representa una figura de alegría y celebración en la historia.",
+      "respuesta": true,
+      "origen": "Alejandra en el cementerio"
+    },
+    {
+      "afirmacion": "Si se encuentra una araña en casa, es mejor dejarla ahí sin hacer nada porque son peligrosas.",
+      "respuesta": false,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "La importancia de las arañas en los ecosistemas sugiere que su desaparición podría afectar a otras especies.",
+      "respuesta": true,
+      "origen": "Las arañas"
+    },
+    {
+      "afirmacion": "La destrucción de los amoxcalli y códices refleja la importancia que tenían para los pueblos originarios.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "La mezcla de la escritura pictográfica-ideográfica y la alfabética indica un proceso de adaptación cultural entre los pueblos originarios y los españoles.",
+      "respuesta": true,
+      "origen": "Amoxcalli"
+    },
+    {
+      "afirmacion": "La época del Renacimiento fue importante para las bellas artes en Europa, lo que influyó en el trabajo de Leonardo da Vinci.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    },
+    {
+      "afirmacion": "El talento de Leonardo da Vinci al dibujar y construir mecanismos se manifestó desde su niñez, lo que sugiere que tenía un don natural para el arte y la invención.",
+      "respuesta": true,
+      "origen": "Leonardo Da Vinci"
+    }
+  ]
+}

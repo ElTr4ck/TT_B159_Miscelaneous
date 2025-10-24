@@ -14,3 +14,4 @@ include/
 dist/
 build/
 lib64/
+firebase-credentials.json
